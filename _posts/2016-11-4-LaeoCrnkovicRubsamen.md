@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laeo Crnkovic-Rubsamen
-description: Freshman, 1st year on FTC
+description: Juinor, 3rd year on FTC
 image: assets/images/LaeoCrnkovicRubsamen.png
 ---
 

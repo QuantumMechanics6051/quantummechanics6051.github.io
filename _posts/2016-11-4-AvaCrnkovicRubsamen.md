@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Ava Crnkovic-Rubsamen
-description: Freshman, 1st year on FTC
+description: Junior, 3rd Year on FTC
 image: assets/images/AvaCrnkovicRubsamen.png
-
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
